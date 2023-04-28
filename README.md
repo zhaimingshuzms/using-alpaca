@@ -32,7 +32,7 @@ Change the "text" attribute of request to use
 
 Hint:
 
-If the server is accidentally close,
+If the server accidentally closed,
 
 run
 
